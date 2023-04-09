@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        // TaskTas 2.
+        // Task 2.
         int balance = 100;
         int replenishment = 1100;
         int bonus = replenishment / 100;
